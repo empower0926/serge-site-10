@@ -14,35 +14,20 @@ const en = {
   about_section_title: "about me",
   about_section_desc: `I am Serge Maurice Lobréau,Founder at SAPIAN and FLASH GROUP, I am designing disruptive products and services into the financial area To bring financial inclusion for the common good.`,
   about_section_africa_title: "The place I was born and have been shaped",
-  about_section_africa_desc: `I was born in Mbuji-Mayi late 70’s in what we use to call Zaïre. what looked at that time as normality with my african eyes, appeared to be a very tough existence for my future European eyes. We use to have less than nothing, but I cannot remember a day I was not HAPPY. That teach me that no matter life hurdles and difficulties just smile and everything will be OK!`,
+  about_section_africa_desc: `I was born in Mbuji-Mayi late 70s in what we used to call Zaïre. What looked at that time as normality with my African eyes appeared to be a callous existence for my future European eyes. We used to have less than nothing, but I cannot remember a day I was not HAPPY. That taught me that no matter life's hurdles and difficulties, smile, and everything would be OK!`,
   about_section_europe_title: "The place I Grew up and transformed",
   about_section_europe_desc:
-    "I used to think that Europe was in the sky when I was very young in Africa. When I land in Charles de Gaulle Airport in 1989, the images on TV from people breaking the Berlin Wall crying and hugging burned into my memory. I immediately understood that observation and fast learning fast were paramount to survive.",
+    "I used to think that Europe was in the sky when I was young in Africa. When I landed at Charles de Gaulle Airport in 1989, the images on TV of people breaking the Berlin Wall, crying, and hugging burned into my memory. I immediately understood that observation and fast learning fast were paramount to survival.",
   about_section_world_title: "The place I am evolving",
   about_section_world_desc:
-    "I worked and lived over 5 continents with a tropism in Africa as I personally visited 44 countries on 54! I am a global. Citizen and the world is my home.As such, everything I am doing and especially in business has a global blueprint. And I am trying to think as much as possible to build solutions for the greater good.",
+    "I am a Global Citizen, and the world is my home. I worked and lived over five continents with a tropism in Africa, visiting 44 countries on 54! As such, everything I am doing, especially in business, has a global blueprint. And I am thinking as much as possible to build solutions for the greater good.",
   experience_section_title: "experience",
   experience_section_desc:
-    `I got 15 years of experience where I started within the hedge fund sector, where due to my
-    excellent “Memoire” during my Master’s degree on derivative based wealth creation, made
-    me being head hunted to another important role to sell major restructuring and derivatives
-    based financial products at a country level. Wishing to change from that highly political
-    sector, I explored the popular technology sector to work for Microsoft at their European HQ
-    in Ireland, as a project manager which created a strong foundation for my career in
-    technology.However, it brought me back to my calling into the banking world again, working
-    with major international banks.<br/><br/>
-    As I started a new family, I then decided to move back to France and work for Credit
-    Agricole. Throughout my banking and wealth management career, I manage over $2.5 B in
-    AUM and over 800 corporate accounts.
-    Some of my tasks and responsibilities in this corporate finance role ranged from economic
-    modelling, banking, risk management, financial planning and wealth management, dealing
-    with institutions and UHNWIs.<br/><br/>
-    The later part of that time at credit Agricole, I was introduced to network marketing of
-    products which I managed to succeed with ease due to my client management and
-    relationship skills, earning a six figure income monthly on a part time basis.
-    The income and lifestyle made me start my full time entrepreneur journey, with a move to
-    Gold mines from a request made by a former client. I reconnected to my roots and relatives
-    in the republic of Congo, to commence the Gold trading business.
+    `I got 15+ years of experience in Finance. I started within the hedge fund sector, with an important role in selling major restructuring and derivatives-based financial products at a country level. Wishing to change from that highly political sector, I explored the popular technology sector to work for Microsoft at their European HQ in Ireland as a project manager, which created a strong foundation for my career in technology. However, it brought me back to my calling into the banking world again, working with major international banks.<br/><br/>
+As I started a new family, I moved back to France and worked for Big 3 Bank. Some of my tasks and responsibilities in this corporate finance role ranged from economic modeling, risk management, financial planning, and wealth management, dealing with institutions and UHNWIs. I have managed over $2.5 B in AUM and over 800 corporate accounts throughout my banking and wealth management career.
+<br/><br/>
+Later in the banking sector, I was introduced to network marketing. I succeeded easily due to my client management and relationship skills, earning a 7 figure yearly income. That made me start my full-time entrepreneur journey, with a move to Gold mines from a request made by a former client. I reconnected with my roots and relatives in the DRC to commence the Gold trading business.
+From there, I had to build an investment holding company and diversify into real estate, cryptocurrency, app development, and diverse red and blue ocean businesses.
     `,
   company_section_title: "My Company & Experience Entrepreneur",
   company_section_sapian_desc: `Sapian Group is the holding company or various wealth management, asset management, sales channel services and Blockchain associated businesses within the group. The group is licenced in Europe (Estonia) holding eWallet, Exchange and Financial institution licences.`,

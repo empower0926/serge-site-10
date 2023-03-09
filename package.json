@@ -65,6 +65,7 @@
     "react-scripts": "^5.0.0",
     "react-scroll-up-button": "^1.6.4",
     "react-slick": "^0.29.0",
+    "moment": "2.29.1",
     "simplebar": "^5.3.6",
     "simplebar-react": "^2.3.6",
     "slick-carousel": "^1.8.1",
