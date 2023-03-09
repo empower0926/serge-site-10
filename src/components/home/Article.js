@@ -100,7 +100,7 @@ export default function Article() {
     // },
   });
   return (
-    <BoxStyle px={3} id="article">
+    <BoxStyle px={3} py={{ xs: 6, md: 10 }} id="article">
       <MotionViewport>
         <Box
           maxWidth="1140px"
