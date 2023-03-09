@@ -6,7 +6,6 @@ import About from "../components/home/About";
 import Experience from "../components/home/Experience";
 import Company from "../components/home/Company";
 import Service from "../components/home/Service";
-import Book from "../components/home/Book";
 import Article from "../components/home/Article";
 
 // ----------------------------------------------------------------------
@@ -20,7 +19,6 @@ export default function HomePage() {
       <Experience />
       <Company />
       <Service />
-      <Book />
       <Article />
     </Page>
   );
