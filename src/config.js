@@ -1,6 +1,12 @@
 // @mui
 import { enUS, frFR, esES } from "@mui/material/locale";
 
+// SERVICE LINK
+export const service = {
+  ARTICLES: process.env.REACT_APP_ARTICLES,
+  ARTICLE_API_SERVICE: process.env.REACT_APP_ARTICLE_API_SERVICE,
+}
+
 // LAYOUT
 // ----------------------------------------------------------------------
 
