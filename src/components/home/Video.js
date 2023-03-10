@@ -67,13 +67,10 @@ export default function Video() {
     autoplaySpeed: 4600,
   };
   const videoData = [
-    "https://www.youtube.com/embed/x65QvWQN90I?autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsergenew-gamma.vercel.app&amp;widgetid=1",
-    "https://www.youtube.com/embed/xPpQISVvQWI?autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsergenew-gamma.vercel.app&amp;widgetid=3",
-    "https://www.youtube.com/embed/OWVIUyR8IBI?autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsergenew-gamma.vercel.app&amp;widgetid=5",
-    "https://www.youtube.com/embed/dlj3daa_tvo?autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsergenew-gamma.vercel.app&amp;widgetid=7",
-    "https://www.youtube.com/embed/OWVIUyR8IBI?autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsergenew-gamma.vercel.app&amp;widgetid=9",
-    "https://www.youtube.com/embed/Ey7mMijO0rM?autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsergenew-gamma.vercel.app&amp;widgetid=11",
+    'https://youtu.be/OWVIUyR8IBI',
+    'https://youtu.be/dlj3daa_tvo'
   ];
+
   return (
     <MotionViewport>
       <BoxStyle id="video" px={3}>
