@@ -67,8 +67,8 @@ export default function Video() {
     autoplaySpeed: 4600,
   };
   const videoData = [
-    'https://youtu.be/OWVIUyR8IBI',
-    'https://youtu.be/dlj3daa_tvo'
+    'https://www.youtube.com/embed/OWVIUyR8IBI?enablejsapi=1',
+    'https://www.youtube.com/embed/dlj3daa_tvo?enablejsapi=1'
   ];
 
   return (
