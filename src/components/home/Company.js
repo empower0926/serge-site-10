@@ -36,60 +36,68 @@ export default function Company() {
           <Grid container spacing={4}>
             <Grid item xs={12} lg={6}>
               <m.div variants={varFade({ durationIn: 1 }).inLeft}>
-                <Box
-                  textAlign="center"
-                  py={{ xs: 6, sm: 8 }}
-                  px={{ xs: 2, sm: 4 }}
-                  sx={{
-                    height: "100%",
-                    minHeight: "450px",
-                    background:
-                      "linear-gradient(180deg, #101322 0%, rgba(116, 90, 203, 0.21) 111.47%)",
-                    border: "4px solid #181930",
-                    borderRadius: "16px",
-                    display: "flex",
-                    flexDirection: "column",
-                    alignItems: "center",
-                  }}
-                >
-                  <Image
-                    src="/logo/logo_sapian.svg"
-                    sx={{ width: "278px", mb: 6, mx: "auto" }}
-                  />
-                  <Typography variant="h3">SAPIAN GROUP</Typography>
-                  <Typography variant="body1" mt="auto">
-                    {translate("company_section_sapian_desc")}
-                  </Typography>
-                </Box>
+                <a href="http://sapiangroup.com/" target="_blank" rel="noreferrer">
+                  <Box
+                    textAlign="center"
+                    py={{ xs: 6, sm: 8 }}
+                    px={{ xs: 2, sm: 4 }}
+                    sx={{
+                      height: "100%",
+                      minHeight: "450px",
+                      background:
+                        "linear-gradient(180deg, #101322 0%, rgba(116, 90, 203, 0.21) 111.47%)",
+                      border: "4px solid #181930",
+                      borderRadius: "16px",
+                      display: "flex",
+                      flexDirection: "column",
+                      alignItems: "center",
+                      cursor: "pointer",
+                      color: "#BACECE"
+                    }}
+                  >
+                    <Image
+                      src="/logo/logo_sapian.svg"
+                      sx={{ width: "278px", mb: 6, mx: "auto" }}
+                    />
+                    <Typography variant="h3">SAPIAN GROUP</Typography>
+                    <Typography variant="body1" mt="auto">
+                      {translate("company_section_sapian_desc")}
+                    </Typography>
+                  </Box>
+                </a>
               </m.div>
             </Grid>
             <Grid item xs={12} lg={6}>
               <m.div variants={varFade({ durationIn: 1 }).inRight}>
-                <Box
-                  textAlign="center"
-                  py={{ xs: 6, sm: 8 }}
-                  px={{ xs: 2, sm: 4 }}
-                  sx={{
-                    height: "100%",
-                    minHeight: "450px",
-                    background:
-                      "linear-gradient(180deg, #101322 0%, rgba(116, 90, 203, 0.21) 111.47%)",
-                    border: "4px solid #181930",
-                    borderRadius: "16px",
-                    display: "flex",
-                    flexDirection: "column",
-                    alignItems: "center",
-                  }}
-                >
-                  <Image
-                    src="/logo/logo_flash.svg"
-                    sx={{ width: "278px", mb: 6, mx: "auto" }}
-                  />
-                  <Typography variant="h3">FLASH GROUP</Typography>
-                  <Typography variant="body1" mt="auto">
-                    {translate("company_section_flash_desc")}
-                  </Typography>
-                </Box>
+                <a href="http://flashgroup.io/" target="_blank" rel="noreferrer">
+                  <Box
+                    textAlign="center"
+                    py={{ xs: 6, sm: 8 }}
+                    px={{ xs: 2, sm: 4 }}
+                    sx={{
+                      height: "100%",
+                      minHeight: "450px",
+                      background:
+                        "linear-gradient(180deg, #101322 0%, rgba(116, 90, 203, 0.21) 111.47%)",
+                      border: "4px solid #181930",
+                      borderRadius: "16px",
+                      display: "flex",
+                      flexDirection: "column",
+                      alignItems: "center",
+                      cursor: "pointer",
+                      color: "#BACECE"
+                    }}
+                  >
+                    <Image
+                      src="/logo/logo_flash.svg"
+                      sx={{ width: "278px", mb: 6, mx: "auto" }}
+                    />
+                    <Typography variant="h3">FLASH GROUP</Typography>
+                    <Typography variant="body1" mt="auto">
+                      {translate("company_section_flash_desc")}
+                    </Typography>
+                  </Box>
+                </a>
               </m.div>
             </Grid>
           </Grid>
